@@ -1,5 +1,3 @@
-## Sobre mim / About Me:
-🙋🏼‍♂️<br>Estudando para me tornar um Desenvolvedor Full-Stack através de uma escola de programação;<br>Atualmente estudando ReactJS e NodeJS;<br>Gostaria de participar de projetos inovadores, com pessoas admiráveis e que tenham impacto no mundo;<br>Trabalho atualmente no suporte técnico de uma rede de farmácias e estou em busca de uma oportunidade como Desenvolvedor;<br>Contato: diiogosantos@live.com
 
 
 ## 🌐 Redes Sociais / Socials:
